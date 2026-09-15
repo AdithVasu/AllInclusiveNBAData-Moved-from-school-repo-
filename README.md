@@ -1,6 +1,6 @@
 # AllInclusiveNBAData
 
-This repository is the GitHub-hosted copy of the original school repository.
+This repository is copied from my original private, school repository after getting instructor permission
 
 This project is a data engineering pipeline for extracting, transforming, and loading NBA play-by-play data using open-source Python tooling and AWS services. It was built as a class project to explore modern data engineering workflows, data architecture, and cloud-based analytics patterns.
 
